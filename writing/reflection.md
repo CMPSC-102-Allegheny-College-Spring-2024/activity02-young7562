@@ -20,6 +20,15 @@ TODO: Use a fenced code block to provide the output for this command.
 
 - `python compare-variables.py`
 
+```1.0 is not that same as 1.1
+1.0 is the same as 1.0
+.33333 + .33333 + .33333 is not equal to 1
+.333333333 + .333333333 + .333333333 is not equal to 1
+The value of 1/3 is 0.3333333333333333
+0.333333333333333333 + 0.3333333333333333 + 0.3333333333333333 is equal to 1
+1/3 + 1/3 + 1/3 is equal 1
+```
+
 ## Program Questions
 
 ### Why is it not feasible to perform the computation `2**2**100`?
