@@ -6,7 +6,7 @@ suitable for publication. If you have questions about how to
 structure, format, and write this document, please ask for a
 preliminary assessment of your work in advance of the deadline.
 
-## Add Your Name Here
+## Jocelyn Young
 
 ## Program Output
 
@@ -23,7 +23,7 @@ TODO: Use a fenced code block to provide the output for this command.
 ## Program Questions
 
 ### Why is it not feasible to perform the computation `2**2**100`?
-
+Python gets stuck trying to compute this number. It is too large for the computer to be able to solve. Certain mathimatical problems are just too complex for the system.
 TODO: Provide a one-paragraph response to this question.
 
 ### What is the value of `1/3` according to the Python language? Why?
